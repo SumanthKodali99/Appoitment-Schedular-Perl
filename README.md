@@ -5,7 +5,7 @@ Work flow.
 
 All the files should be unzipped in same directory.
 Main executable program file is index.pl which should be chmod-ed to 755 (if needed). 
-It is accessed for ex. at http://example.com/index.pl
+
 
 Program uses MySQL database that is accessed by following requisites: 
 	my $host = '';
